@@ -137,5 +137,39 @@ body {
     padding: 25px;
   }
 }
+.testimonials {
+  margin-bottom: 32px;
+}
+.testimonials h2 {
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+@media (min-width: 768px) {
+  .cardsection {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 900px) {
+  .cardsection {
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .section a {
+    font-size: 13px;
+    color: #2563eb;
+    text-decoration: none;
+  }
+  .section a:hover {
+    text-decoration: underline;
+    color: #272424;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
