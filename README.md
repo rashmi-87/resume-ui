@@ -19,5 +19,6 @@ Clone the repository:
 
 ScreenShots
 
-![UI Screenshot](image.png)
-![UI Screenshot2](image1.png)
+<img width="1338" height="681" alt="image" src="https://github.com/user-attachments/assets/87934c46-63af-4fb1-861a-494ce6b7dbf9" />
+
+<img width="1327" height="652" alt="image" src="https://github.com/user-attachments/assets/ef0cf8fa-6c48-4e81-a89a-892317e935fa" />
